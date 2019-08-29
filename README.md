@@ -1,8 +1,8 @@
 # chingu-journal Backend
 This is the Chingu Journal Flask app that serves API to the react frontend application.
 
-##How to install
-Create a virtual environment for python 3.6+ in the root folder.
+## How to install<br />
+Create a virtual environment for python 3.6+ in the root folder.<br />
 `python3 -m venv venv` on Windows
 `virtualenv venv` on Linux
 
