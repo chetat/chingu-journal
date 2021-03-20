@@ -4,7 +4,7 @@ Flask==1.0.3
 Flask-JWT-Extended==3.18.2
 gunicorn==19.9.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 passlib==1.7.1
 pycodestyle==2.5.0
